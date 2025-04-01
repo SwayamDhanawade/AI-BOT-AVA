@@ -1,0 +1,26 @@
+# Virtual environment
+venv/
+.env
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs and debug files
+*.log
+*.txt
+
+# Ignore VSCode settings
+.vscode/
+
+# Ignore model and data files
+*.pt
+*.mp4
+
+# Ignore dependency files
+requirements.txt
+
+# Ignore other unwanted files
+.DS_Store
